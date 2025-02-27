@@ -1,0 +1,11 @@
+C:\Users\NADEAUM\Source\repos\HouseIncomeCalculator\Money\bin\Debug\net8.0\Money.deps.json
+C:\Users\NADEAUM\Source\repos\HouseIncomeCalculator\Money\bin\Debug\net8.0\Money.dll
+C:\Users\NADEAUM\Source\repos\HouseIncomeCalculator\Money\bin\Debug\net8.0\Money.pdb
+C:\Users\NADEAUM\Source\repos\HouseIncomeCalculator\Money\obj\Debug\net8.0\Money.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NADEAUM\Source\repos\HouseIncomeCalculator\Money\obj\Debug\net8.0\Money.AssemblyInfoInputs.cache
+C:\Users\NADEAUM\Source\repos\HouseIncomeCalculator\Money\obj\Debug\net8.0\Money.AssemblyInfo.cs
+C:\Users\NADEAUM\Source\repos\HouseIncomeCalculator\Money\obj\Debug\net8.0\Money.csproj.CoreCompileInputs.cache
+C:\Users\NADEAUM\Source\repos\HouseIncomeCalculator\Money\obj\Debug\net8.0\Money.dll
+C:\Users\NADEAUM\Source\repos\HouseIncomeCalculator\Money\obj\Debug\net8.0\refint\Money.dll
+C:\Users\NADEAUM\Source\repos\HouseIncomeCalculator\Money\obj\Debug\net8.0\Money.pdb
+C:\Users\NADEAUM\Source\repos\HouseIncomeCalculator\Money\obj\Debug\net8.0\ref\Money.dll

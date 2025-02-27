@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F83E207B-2A68-4DFD-B017-79215D6C4ECA}|ConsoleWriteHelper\\ConsoleWriteHelper.csproj|c:\\users\\nadeaum\\source\\repos\\houseincomecalculator\\consolewritehelper\\model\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83E207B-2A68-4DFD-B017-79215D6C4ECA}|ConsoleWriteHelper\\ConsoleWriteHelper.csproj|solutionrelative:consolewritehelper\\model\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83E207B-2A68-4DFD-B017-79215D6C4ECA}|ConsoleWriteHelper\\ConsoleWriteHelper.csproj|c:\\users\\nadeaum\\source\\repos\\houseincomecalculator\\consolewritehelper\\model\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83E207B-2A68-4DFD-B017-79215D6C4ECA}|ConsoleWriteHelper\\ConsoleWriteHelper.csproj|solutionrelative:consolewritehelper\\model\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83E207B-2A68-4DFD-B017-79215D6C4ECA}|ConsoleWriteHelper\\ConsoleWriteHelper.csproj|c:\\users\\nadeaum\\source\\repos\\houseincomecalculator\\consolewritehelper\\model\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83E207B-2A68-4DFD-B017-79215D6C4ECA}|ConsoleWriteHelper\\ConsoleWriteHelper.csproj|solutionrelative:consolewritehelper\\model\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83E207B-2A68-4DFD-B017-79215D6C4ECA}|ConsoleWriteHelper\\ConsoleWriteHelper.csproj|c:\\users\\nadeaum\\source\\repos\\houseincomecalculator\\consolewritehelper\\output\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83E207B-2A68-4DFD-B017-79215D6C4ECA}|ConsoleWriteHelper\\ConsoleWriteHelper.csproj|solutionrelative:consolewritehelper\\output\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B0EC95-2F0A-4300-A443-69361788227C}|HouseIncomeCalculator\\HouseIncomeCalculator.csproj|c:\\users\\nadeaum\\source\\repos\\houseincomecalculator\\houseincomecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B0EC95-2F0A-4300-A443-69361788227C}|HouseIncomeCalculator\\HouseIncomeCalculator.csproj|solutionrelative:houseincomecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|c:\\users\\nadeaum\\source\\repos\\houseincomecalculator\\money\\mortgage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|solutionrelative:money\\mortgage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|c:\\users\\nadeaum\\source\\repos\\houseincomecalculator\\money\\model\\mortgagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|solutionrelative:money\\model\\mortgagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|c:\\users\\nadeaum\\source\\repos\\houseincomecalculator\\money\\model\\mortgageyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|solutionrelative:money\\model\\mortgageyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|c:\\users\\nadeaum\\source\\repos\\houseincomecalculator\\money\\model\\investmentyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|solutionrelative:money\\model\\investmentyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|c:\\users\\nadeaum\\source\\repos\\houseincomecalculator\\money\\model\\investmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|solutionrelative:money\\model\\investmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|c:\\users\\nadeaum\\source\\repos\\houseincomecalculator\\money\\investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|solutionrelative:money\\investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|c:\\users\\nadeaum\\source\\repos\\houseincomecalculator\\money\\model\\investmentmonth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|solutionrelative:money\\model\\investmentmonth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|c:\\users\\nadeaum\\source\\repos\\houseincomecalculator\\money\\helper\\arrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|solutionrelative:money\\helper\\arrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|c:\\users\\nadeaum\\source\\repos\\houseincomecalculator\\money\\model\\mortgagemonth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E4F9EF-965E-4797-A434-49B75C5E81FD}|Money\\Money.csproj|solutionrelative:money\\model\\mortgagemonth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\ConsoleWriteHelper\\Model\\Section.cs",
+              "RelativeDocumentMoniker": "ConsoleWriteHelper\\Model\\Section.cs",
+              "ToolTip": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\ConsoleWriteHelper\\Model\\Section.cs",
+              "RelativeToolTip": "ConsoleWriteHelper\\Model\\Section.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:50:02.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\ConsoleWriteHelper\\Model\\Line.cs",
+              "RelativeDocumentMoniker": "ConsoleWriteHelper\\Model\\Line.cs",
+              "ToolTip": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\ConsoleWriteHelper\\Model\\Line.cs",
+              "RelativeToolTip": "ConsoleWriteHelper\\Model\\Line.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:45:23.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\ConsoleWriteHelper\\Model\\Property.cs",
+              "RelativeDocumentMoniker": "ConsoleWriteHelper\\Model\\Property.cs",
+              "ToolTip": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\ConsoleWriteHelper\\Model\\Property.cs",
+              "RelativeToolTip": "ConsoleWriteHelper\\Model\\Property.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:39:30.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\ConsoleWriteHelper\\Output\\Square.cs",
+              "RelativeDocumentMoniker": "ConsoleWriteHelper\\Output\\Square.cs",
+              "ToolTip": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\ConsoleWriteHelper\\Output\\Square.cs",
+              "RelativeToolTip": "ConsoleWriteHelper\\Output\\Square.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:35:16.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvestmentYear.cs",
+              "DocumentMoniker": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Model\\InvestmentYear.cs",
+              "RelativeDocumentMoniker": "Money\\Model\\InvestmentYear.cs",
+              "ToolTip": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Model\\InvestmentYear.cs",
+              "RelativeToolTip": "Money\\Model\\InvestmentYear.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:17:04.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvestmentMonth.cs",
+              "DocumentMoniker": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Model\\InvestmentMonth.cs",
+              "RelativeDocumentMoniker": "Money\\Model\\InvestmentMonth.cs",
+              "ToolTip": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Model\\InvestmentMonth.cs",
+              "RelativeToolTip": "Money\\Model\\InvestmentMonth.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:17:16.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvestmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Model\\InvestmentModel.cs",
+              "RelativeDocumentMoniker": "Money\\Model\\InvestmentModel.cs",
+              "ToolTip": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Model\\InvestmentModel.cs",
+              "RelativeToolTip": "Money\\Model\\InvestmentModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:15:20.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArrayHelper.cs",
+              "DocumentMoniker": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Helper\\ArrayHelper.cs",
+              "RelativeDocumentMoniker": "Money\\Helper\\ArrayHelper.cs",
+              "ToolTip": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Helper\\ArrayHelper.cs",
+              "RelativeToolTip": "Money\\Helper\\ArrayHelper.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:51:42.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Investment.cs",
+              "DocumentMoniker": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Investment.cs",
+              "RelativeDocumentMoniker": "Money\\Investment.cs",
+              "ToolTip": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Investment.cs",
+              "RelativeToolTip": "Money\\Investment.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAYwG4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:42:01.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\HouseIncomeCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "HouseIncomeCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\HouseIncomeCalculator\\Program.cs",
+              "RelativeToolTip": "HouseIncomeCalculator\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:16:19.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mortgage.cs",
+              "DocumentMoniker": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Mortgage.cs",
+              "RelativeDocumentMoniker": "Money\\Mortgage.cs",
+              "ToolTip": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Mortgage.cs",
+              "RelativeToolTip": "Money\\Mortgage.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:06:11.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MortgageModel.cs",
+              "DocumentMoniker": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Model\\MortgageModel.cs",
+              "RelativeDocumentMoniker": "Money\\Model\\MortgageModel.cs",
+              "ToolTip": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Model\\MortgageModel.cs",
+              "RelativeToolTip": "Money\\Model\\MortgageModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:06:13.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MortgageYear.cs",
+              "DocumentMoniker": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Model\\MortgageYear.cs",
+              "RelativeDocumentMoniker": "Money\\Model\\MortgageYear.cs",
+              "ToolTip": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Model\\MortgageYear.cs",
+              "RelativeToolTip": "Money\\Model\\MortgageYear.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:06:14.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MortgageMonth.cs",
+              "DocumentMoniker": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Model\\MortgageMonth.cs",
+              "RelativeDocumentMoniker": "Money\\Model\\MortgageMonth.cs",
+              "ToolTip": "C:\\Users\\NADEAUM\\Source\\repos\\HouseIncomeCalculator\\Money\\Model\\MortgageMonth.cs",
+              "RelativeToolTip": "Money\\Model\\MortgageMonth.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:06:15.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
