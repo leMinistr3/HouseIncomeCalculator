@@ -91,11 +91,11 @@ namespace HouseIncomeCalculator
 
             AppConfig.ConsoleVerbose = consoleVerbose;
 
-            int year = 10;
+            int year = 30;
             //double loanValue = AppConfig.BlocValue * 0.80;
-            double loanValue = 200000;
-            double mortagePercentage = 4.2;
-            double investementRate = 3.5;
+            double loanValue = AppConfig.BlocValue * 0.80;
+            double mortagePercentage = 2.5;
+            double investementRate = 5;
             double blockRevenu = 2000;
             double monthDeductible = 300;
             double inflation = 1.5;
